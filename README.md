@@ -12,6 +12,6 @@ The scene starts with a beach scene. Set the parameters in Terrain Menu in ImGui
 
 Note: The water initializes as seen and does not change with any controls.
 
-A video of the project can be found here: 
+A video of the project can be found here: https://youtu.be/ZLNm-a4pxtk
 
 For a detailed explanation, refer to the attached report (CMP505_Directx_Report)
